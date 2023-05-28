@@ -3,13 +3,8 @@
 </template>
 
 <script setup lang="ts">
-let str = "dghsuiadfghaw";
-console.log(str);
-
-
-
-
-
+let str = 'dghsuiadfghaw'
+console.log(str)
 </script>
 
 <style scoped lang="scss"></style>
