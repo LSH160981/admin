@@ -2,9 +2,6 @@
   <h2>早上好</h2>
 </template>
 
-<script setup lang="ts">
-let str = 'dghsuiadfghaw'
-console.log(str)
-</script>
+<script setup lang="ts"></script>
 
 <style scoped lang="scss"></style>
