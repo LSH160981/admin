@@ -3,7 +3,13 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+let str = "dghsuiadfghaw";
+console.log(str);
+
+
+
+
+
 </script>
 
 <style scoped lang="scss"></style>
