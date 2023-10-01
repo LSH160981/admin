@@ -1,7 +1,9 @@
 <template>
-  <h2>早上好</h2>
+  <div>
+    <router-view></router-view>
+  </div>
 </template>
 
 <script setup lang="ts"></script>
 
-<style scoped lang="scss"></style>
+<style lang="scss" scoped></style>

@@ -1,3 +1,5 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
-npm commitlint
+#commit的时候必须符合提交规则有 关键字  比如：'feat: xxx'
+#看 commitlint.config.cjs 这个文件
+npm run commitlint
